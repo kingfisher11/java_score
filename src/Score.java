@@ -38,5 +38,7 @@ public class Score {
             }
         }
         System.out.print("\n Thank you for using Student Score Checker. ");
+        System.out.print("Test merge");
     }
+
 }
